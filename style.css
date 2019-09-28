@@ -1,0 +1,55 @@
+body {
+    font-family: 'Overpass';
+    font-size: 18px;
+}
+
+h1 {
+    color: #800080;
+    font-family: 'Playfair Display', sans-serif;
+    font-size: 36px;
+    text-align: right;
+    margin: 0px;
+    text-shadow: 0 3px 10px rgba (0, 0, 0, 7);
+}
+
+h2,
+h3,
+a {
+    color: #DAA520;
+    font-family: 'Overpass', sans-serif;
+    text-align: center;
+}
+
+section {
+    padding: 50px 15%;
+    overflow: auto;
+}
+
+.hlavicka {
+background-image: url(obrazky/picture1.jpg);
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover; 
+padding: 150px 150px;
+}
+
+.omne {
+background-color: rgb(243, 224, 227);
+}
+
+.paticka {
+    background-color: #333333;
+    color: blanchedalmond;
+    text-align: center;
+    font-size: 14px;
+    padding: 20px 0;
+}
+
+.fotoomne {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    float: left;
+    margin: 0px 50px 30px 0px;
+}
+
